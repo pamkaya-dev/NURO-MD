@@ -25,7 +25,7 @@ const {
     S_WHATSAPP_NET
 } = require('baileys');
 
-const FIREBASE_URL = 'https://minibotproject2-default-rtdb.asia-southeast1.firebasedatabase.app';
+const FIREBASE_URL = 'https://minibotproject2-default-rtdb.asia-southeast1.firebasedatabase.app'';
 
 const config = {
     THARUZZ_FOOTER: '> © ᴄʀᴇᴀᴛᴇᴅ ʙʏ ɴᴜʀᴏ ᴍᴅ',
